@@ -99,7 +99,7 @@ During the scope of this project all the concepts and artefacts learned during t
 
 4.Project Tasks and Milestones
 
-5.3 Point Estimations
+5.Three Point Estimations
 
 6.Project Plan
 

@@ -91,23 +91,21 @@ During the scope of this project all the concepts and artefacts learned during t
 
 # Artifacts are as below :
 
-1.Project Charter for Sauce and Spoon 
+1.Project Charter for Sauce and Spoon - Project Intitation
 
-2.Stakeholder Analysis
+2.Stakeholder Email - Senior Stakeholder Communication skills 
 
-3.Influential Email
+3.Influential Email - Email writing skills
 
-4.Project Tasks and Milestones
+4.Project Tasks and Milestones - Part of Project Plan
 
-5.Three Point Estimations
+5.Three Point Estimations - Part of Project Plan
 
-6.Project Plan
+6.Survey Development - Part of Project Plan
 
-7.Survey Development
+7.Project Closeout Report - Impct Report
 
-8.Retrospective Document
-
-9.Project Closeout Report
+8.Risk Management document - For Plant Pals project( Studied during the courses)
 
 
 

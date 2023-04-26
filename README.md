@@ -89,7 +89,7 @@ yet minimal resources would be needed to smoothly manage the transition.
 
 During the scope of this project all the concepts and artefacts learned during the 5 courses are used. 
 
-# Artefacts are as below :
+# Artifacts are as below :
 
 1.Project Charter for Sauce and Spoon 
 

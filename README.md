@@ -5,7 +5,7 @@ https://www.coursera.org/account/accomplishments/professional-cert/Y2WZZ86E8WH7?
 This repository is to showcase the projects I have done during 6 course certification program offered by Google for Project Management.
 This program enables you to be well versed with best parctices for managing a project small or large. Also introduce various artefacts and techniques used to efficiently get the work done with the frame of expected budget, time and resources. Over and above that insights shared by google employees help you work on pesonality development to be a leader to succeed in this profession.
 
-# Course 1 : Foundations of Project Management
+## Course 1 : Foundations of Project Management
 
  1. Key responcibilities of Project Manager
 
@@ -21,7 +21,7 @@ This program enables you to be well versed with best parctices for managing a pr
 
  7. Organisational Processes
  
- # Course 2 : Project Initiation: Starting a Successful Project
+ ## Course 2 : Project Initiation: Starting a Successful Project
  
  1. Project Intitation steps
 
@@ -39,7 +39,7 @@ This program enables you to be well versed with best parctices for managing a pr
  
  8. Developing a project charter
  
-  # Course 3 : Project Planning - Putting it all together
+  ## Course 3 : Project Planning - Putting it all together
  
  1. Work Breakdown structure
 
@@ -51,7 +51,7 @@ This program enables you to be well versed with best parctices for managing a pr
 
  5. Stakeholder analysis
 
-  # Course 4 : Project Execution - Running the project
+  ## Course 4 : Project Execution - Running the project
   
  1. Escalations
 
@@ -67,7 +67,7 @@ This program enables you to be well versed with best parctices for managing a pr
  
  7. Project closure process
  
-   # Course 5 : Agile Project Management
+   ## Course 5 : Agile Project Management
   
  1. Brief History of Agile Manifesto
 
@@ -77,7 +77,7 @@ This program enables you to be well versed with best parctices for managing a pr
 
  4. Estimations
 
-   # Course 6 : Capstone: Applying Project Management in the Real World
+   ## Course 6 : Capstone: Applying Project Management in the Real World
   
 Project Overview : For a small restaurent chain called Sauce and Spoon, a project manager is appointed for launching Table Top menu tablets. 
 
@@ -89,7 +89,7 @@ yet minimal resources would be needed to smoothly manage the transition.
 
 During the scope of this project all the concepts and artefacts learned during the 5 courses are used. 
 
-# Artifacts are as below :
+## Artifacts are as below :
 
 1.Project Charter for Sauce and Spoon - Project Intitation
 
